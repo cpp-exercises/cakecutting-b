@@ -1,2 +1,18 @@
-# cakecutting-b
-Implement a generic fair division algorithm - part B
+<div dir="rtl" lang="he">
+
+# חלוקת עוגה - שלב ב
+
+כתבו מערכת למימוש אלגוריתם לחלוקה הוגנת של עוגה.
+
+בשלב ב עליכם לכתוב מימוש מלא של המערכת. 
+המימוש צריך לעבור את כל הבדיקות - שלכם ושלנו.
+
+אנחנו מריצים את הפקודה הבאה:
+
+<div dir='ltr'>
+
+	make test && ./test
+
+</div>
+
+</div>
